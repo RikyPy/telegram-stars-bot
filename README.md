@@ -18,7 +18,7 @@ After that change `YOUR_BOT_TOKEN` with the token that you can get with [@BotFat
 And now rename the `.env.sample` file to `.env`.
 
 # How to use
-After install all the packages, start the bot by executing this command in the console
+After installing all the packages, start the bot by executing this command in the console
 ```
 python main.py
 ```
